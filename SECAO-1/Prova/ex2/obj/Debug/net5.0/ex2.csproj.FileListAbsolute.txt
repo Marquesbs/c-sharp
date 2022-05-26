@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\bin\Debug\net5.0\ex2.exe
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\bin\Debug\net5.0\ex2.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\bin\Debug\net5.0\ex2.dll
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\bin\Debug\net5.0\ex2.pdb
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.dll
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\refint\ex2.dll
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.pdb
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-1\Prova\ex2\obj\Debug\net5.0\ref\ex2.dll
