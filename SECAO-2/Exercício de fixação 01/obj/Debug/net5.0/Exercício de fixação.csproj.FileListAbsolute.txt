@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.exe
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.dll
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\bin\Debug\net5.0\Exercício de fixação.pdb
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.dll
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\refint\Exercício de fixação.dll
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.pdb
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\Exercício de fixação.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\SECAO-2\Exercício de fixação\obj\Debug\net5.0\ref\Exercício de fixação.dll
