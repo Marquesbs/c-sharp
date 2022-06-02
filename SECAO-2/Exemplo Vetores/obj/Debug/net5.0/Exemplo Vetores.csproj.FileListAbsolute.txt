@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\bin\Debug\net5.0\Exemplo Vetores.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\bin\Debug\net5.0\Exemplo Vetores.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\bin\Debug\net5.0\Exemplo Vetores.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\bin\Debug\net5.0\Exemplo Vetores.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\bin\Debug\net5.0\Exemplo Vetores.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\bin\Debug\net5.0\Exemplo Vetores.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\refint\Exemplo Vetores.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\Exemplo Vetores.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-2\Exemplo Vetores\obj\Debug\net5.0\ref\Exemplo Vetores.dll
