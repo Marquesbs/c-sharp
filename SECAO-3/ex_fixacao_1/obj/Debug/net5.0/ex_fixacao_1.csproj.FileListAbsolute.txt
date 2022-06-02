@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\bin\Debug\net5.0\ex_fixacao_1.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\bin\Debug\net5.0\ex_fixacao_1.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\bin\Debug\net5.0\ex_fixacao_1.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\bin\Debug\net5.0\ex_fixacao_1.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\bin\Debug\net5.0\ex_fixacao_1.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\bin\Debug\net5.0\ex_fixacao_1.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\refint\ex_fixacao_1.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ex_fixacao_1.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\ex_fixacao_1\obj\Debug\net5.0\ref\ex_fixacao_1.dll
