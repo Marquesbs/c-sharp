@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\bin\Debug\net5.0\ex5_estrutura_sequencial.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\bin\Debug\net5.0\ex5_estrutura_sequencial.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\bin\Debug\net5.0\ex5_estrutura_sequencial.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\bin\Debug\net5.0\ex5_estrutura_sequencial.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\bin\Debug\net5.0\ex5_estrutura_sequencial.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\bin\Debug\net5.0\ex5_estrutura_sequencial.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\refint\ex5_estrutura_sequencial.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ex5_estrutura_sequencial.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_sequencial\ex5_estrutura_sequencial\obj\Debug\net5.0\ref\ex5_estrutura_sequencial.dll

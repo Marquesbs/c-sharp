@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\SECAO-1\\Prova\\ex2\\ex2.csproj": {}
+    "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\c-sharp\\SECAO-1\\Prova\\ex2\\ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\SECAO-1\\Prova\\ex2\\ex2.csproj": {
+    "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\c-sharp\\SECAO-1\\Prova\\ex2\\ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\SECAO-1\\Prova\\ex2\\ex2.csproj",
+        "projectUniqueName": "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\c-sharp\\SECAO-1\\Prova\\ex2\\ex2.csproj",
         "projectName": "ex2",
-        "projectPath": "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\SECAO-1\\Prova\\ex2\\ex2.csproj",
+        "projectPath": "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\c-sharp\\SECAO-1\\Prova\\ex2\\ex2.csproj",
         "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\SECAO-1\\Prova\\ex2\\obj\\",
+        "outputPath": "C:\\Users\\marqu\\Documents\\UDEMY\\C#\\c-sharp\\SECAO-1\\Prova\\ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
