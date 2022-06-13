@@ -11,25 +11,25 @@ namespace ex6_estrutura_condicional
         static void Main(string[] args)
         {
             double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            if (valor >= 0 && valor <= 25)
+            if (valor < 0 || valor > 100)
+            {
+                Console.WriteLine("Fora de intervalo");
+            }
+            else if (valor >= 0 && valor <= 25)
             {
                 Console.WriteLine("INTERVALO [0, 25]");
             }
-            if (valor > 25 && valor <= 50)
+            else if (valor > 25 && valor <= 50)
             {
                 Console.WriteLine("INTERVALO [25, 50]");
             }
-            if (valor > 50 && valor <= 75)
+            else if (valor > 50 && valor <= 75)
             {
                 Console.WriteLine("INTERVALO [50, 75]");
             }
-            if (valor > 75 && valor <= 100)
+            else if (valor > 75 && valor <= 100)
             {
                 Console.WriteLine("INTERVALO [75, 100]");
-            }
-            else
-            {
-                System.Console.WriteLine("Fora de intervalo");
             }
         }
     }

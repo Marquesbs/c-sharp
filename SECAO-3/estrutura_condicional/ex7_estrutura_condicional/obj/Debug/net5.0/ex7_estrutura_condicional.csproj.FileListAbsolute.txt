@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\bin\Debug\net5.0\ex7_estrutura_condicional.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\bin\Debug\net5.0\ex7_estrutura_condicional.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\bin\Debug\net5.0\ex7_estrutura_condicional.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\bin\Debug\net5.0\ex7_estrutura_condicional.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\bin\Debug\net5.0\ex7_estrutura_condicional.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\bin\Debug\net5.0\ex7_estrutura_condicional.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\refint\ex7_estrutura_condicional.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ex7_estrutura_condicional.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_condicional\ex7_estrutura_condicional\obj\Debug\net5.0\ref\ex7_estrutura_condicional.dll
