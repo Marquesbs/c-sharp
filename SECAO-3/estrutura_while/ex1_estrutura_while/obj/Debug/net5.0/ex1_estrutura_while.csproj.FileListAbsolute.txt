@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\bin\Debug\net5.0\ex1_estrutura_while.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\bin\Debug\net5.0\ex1_estrutura_while.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\bin\Debug\net5.0\ex1_estrutura_while.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\bin\Debug\net5.0\ex1_estrutura_while.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\bin\Debug\net5.0\ex1_estrutura_while.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\bin\Debug\net5.0\ex1_estrutura_while.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\refint\ex1_estrutura_while.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ex1_estrutura_while.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_while\ex1_estrutura_while\obj\Debug\net5.0\ref\ex1_estrutura_while.dll
