@@ -3,3 +3,14 @@ C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_fo
 C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.AssemblyInfoInputs.cache
 C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.AssemblyInfo.cs
 C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\bin\Debug\net5.0\ex1_estrutura_for.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\bin\Debug\net5.0\ex1_estrutura_for.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\bin\Debug\net5.0\ex1_estrutura_for.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\bin\Debug\net5.0\ex1_estrutura_for.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\bin\Debug\net5.0\ex1_estrutura_for.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\bin\Debug\net5.0\ex1_estrutura_for.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\refint\ex1_estrutura_for.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ref\ex1_estrutura_for.dll
