@@ -1,0 +1,5 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex1_estrutura_for\obj\Debug\net5.0\ex1_estrutura_for.csproj.CoreCompileInputs.cache
