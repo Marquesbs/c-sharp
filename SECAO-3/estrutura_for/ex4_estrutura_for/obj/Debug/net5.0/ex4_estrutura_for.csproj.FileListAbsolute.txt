@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\bin\Debug\net5.0\ex4_estrutura_for.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\bin\Debug\net5.0\ex4_estrutura_for.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\bin\Debug\net5.0\ex4_estrutura_for.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\bin\Debug\net5.0\ex4_estrutura_for.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\bin\Debug\net5.0\ex4_estrutura_for.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\bin\Debug\net5.0\ex4_estrutura_for.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\refint\ex4_estrutura_for.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ex4_estrutura_for.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-3\estrutura_for\ex4_estrutura_for\obj\Debug\net5.0\ref\ex4_estrutura_for.dll
