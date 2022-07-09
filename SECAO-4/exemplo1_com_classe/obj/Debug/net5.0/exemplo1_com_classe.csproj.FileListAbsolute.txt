@@ -1,0 +1,16 @@
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.csproj.AssemblyReference.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.AssemblyInfoInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.AssemblyInfo.cs
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\bin\Debug\net5.0\exemplo1_com_classe.exe
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\bin\Debug\net5.0\exemplo1_com_classe.deps.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\bin\Debug\net5.0\exemplo1_com_classe.runtimeconfig.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\bin\Debug\net5.0\exemplo1_com_classe.runtimeconfig.dev.json
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\bin\Debug\net5.0\exemplo1_com_classe.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\bin\Debug\net5.0\exemplo1_com_classe.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\refint\exemplo1_com_classe.dll
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.pdb
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\exemplo1_com_classe.genruntimeconfig.cache
+C:\Users\marqu\Documents\UDEMY\C#\c-sharp\SECAO-4\exemplo1_com_classe\obj\Debug\net5.0\ref\exemplo1_com_classe.dll
